@@ -4,7 +4,8 @@ E-FARM is a website particularly for the Indian Farmers to provide all informati
 <br>
 It is developed in a such an manner that all users can understand and interact so that they gain the information they want.
 <br>
-Website consists of Pages:
+
+# Website:
 
  * About us 
  * Weather updates
