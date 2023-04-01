@@ -1,9 +1,9 @@
 # Online-Farm-System
 <br>
-E-FARM (All You Need for Agronomy) is a website particularly for the Indian Farmers to provide all information in one portal.
+E-FARM is a website particularly for the Indian Farmers to provide all information in one portal.
 <br>
 It is developed in a such an manner that all users can understand and interact so that they gain the information they want.
-
+<br>
 Website consists of Pages:
 
  * About us 
@@ -14,7 +14,7 @@ Website consists of Pages:
  * Fertilizer
  * Contact us
  
-#Technology:
+# Technology:
 
  * HTML
  * CSS
@@ -22,5 +22,9 @@ Website consists of Pages:
  * javascript
  
 For Weather updates ,API is used in the website.
+<br>
+# Further Improvements: 
+Storing the details of farmers and crops using Flask and analyse the data using machine learning models to recommend the crops , provide the neccessary
+details to yeild a high production in Python.
 
 
